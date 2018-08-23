@@ -1,9 +1,11 @@
+// Problem definition: https://www.spoj.com/problems/CISTFILL/
+
 import java.util.*;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.text.DecimalFormat;
 
-public class Deksamenes {
+public class Cist {
 
         static class Tank {
                 int b; 
