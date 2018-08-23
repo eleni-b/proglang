@@ -5,7 +5,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.text.DecimalFormat;
 
-public class Cist {
+public class cistfill {
 
         static class Tank {
                 int b; 
